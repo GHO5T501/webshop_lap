@@ -1,0 +1,2 @@
+1. change cart_item_qty to check and return the qty value
+2. change get qty to check and return the qty value

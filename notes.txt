@@ -1,0 +1,12 @@
+reh:
+ein user hat ein cart
+password hash
+email und unanme uniqe
+
+login:
+anmeldung über email
+
+admin:
+formular muss nicht funktioniern
+
+
